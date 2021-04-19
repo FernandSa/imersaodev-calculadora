@@ -1,2 +1,2 @@
-# Alura Imersao.Dev Calculadora
+# Alura Imersao Dev Calculadora
 Calculadora básica usando JavaScript
